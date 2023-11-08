@@ -1,3 +1,7 @@
 # 2-REPO
 
-for experiment
+for experience
+
+*alpa
+*beta
+*ppt
